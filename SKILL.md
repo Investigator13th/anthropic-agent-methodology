@@ -48,3 +48,4 @@ For deep-dives into specific topics, refer to the following:
 -   [Building Effective Agents](references/building-effective-agents.md): Detailed architectural patterns and ACI guidelines.
 -   [Building Agents with Skills](references/building-agents-with-skills.md): Skill library design and the 4-layer agent architecture.
 -   [Multi-Agent Research Systems](references/multi-agent-research-system.md): Production challenges, error recovery, and evaluation frameworks.
+-   [Long-Running Agent Architecture Guide](references/long-running-agent-architecture-guide.md): Practical harness patterns for long-lived agents, including session handoffs, externalized state, and end-to-end verification.
